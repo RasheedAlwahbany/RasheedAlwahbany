@@ -3,27 +3,29 @@
 - Bachelor's degree in Computer Science at Sana'a University 
 
 # Full-stack developer in:
--Android developer 
--Web designer 
--Desktop application developer 
+- Android developer in **Java** 
+- Web designer in **PHP - DJANGO**
+- Desktop application developer **C#** 
 
 # Most prominent works:  
-* Sites Design 
+* Sites Design
 - YEDCO website design 
 
 * Android application developments 
 - Programming the graduation project, the Ikram Al-Nama project for the Yemeni Food Bank within the project team 
-- Design and program an application to manage the blood donation process 
+- Design and program an application to manage the blood donation process
 - Design and program an application for the management of the maintenance process of laboratory equipment
 
 
-#مؤهلاتي:
--بكالوريوس علوم حاسوب في جامعة صنعاء
+# مؤهلاتي:
 
-#Full-stack developer في:
--مطور اندرويد
--مصمم مواقع
--مطور تطبيقات سطح المكتب
+- بكالوريوس علوم حاسوب في جامعة صنعاء
+
+# Full-stack developer in:
+ 
+- مطور اندرويد
+- مصمم مواقع
+- مطور تطبيقات سطح المكتب
 
 # ابرز الاعمال:
 * تصميم المواقع
