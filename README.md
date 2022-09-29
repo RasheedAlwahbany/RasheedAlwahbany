@@ -2,23 +2,23 @@
 
 - date and place of birth in Yemen, Taiz, Sharaab Al-Rawanah at 1996/11/6 
 - Marital Status is Single
-- Nationality is Yemenit
+- Nationality is Yemenite
 
-- Working as Software developer in Web & Android Developement for 2 years as freelancer.
-- Working as Software developer at (Minsati) for information technology and (AND) Abu Noor Al-Deen for medical Appliances & Drugs.
+- Working as a Software Developer in Web & Android Developement for 2 years as a freelancer.
+- Working as a Software Developer at (Minsati) for information technology and (AND) Abu Noor Al-Deen for Medical Appliances & Drugs.
 
 
 # Qualifications:
 
 - Bachelor's degree in Computer Science at Sana'a University 
 
-# Full-stack developer in:
+# Full-stack Developer in:
 
 - Android developer in **Java** 
 - Web designer in **PHP - DJANGO**
 - Desktop application developer **C#** 
 
-# Most prominent works:  
+# Most Prominent Works:  
 - Sites Design
   
   - YEDCO website design 
@@ -37,6 +37,15 @@
 - ReactJS-NextJS
 - SQL Server-MySQL-PostgresSQL
 - Analyst
+
+# انا م.رشيد عدنان الوهباني
+
+- تاريخ ومكان الميلاد في اليمن ، تعز ، شراب الروانة في 1996/11/6
+- الحالة الاجتماعية أعزب
+- الجنسية يمنية
+
+- العمل كمطور برامج في تطوير الويب و Android لمدة عامين كمستقل.
+- العمل كمطور برمجيات في شركة (Minsati) لتقنية المعلومات و (AND) أبو نور الدين للأجهزة الطبية والأدوية.
 
 # مؤهلاتي:
 - بكالوريوس علوم حاسوب في جامعة صنعاء
