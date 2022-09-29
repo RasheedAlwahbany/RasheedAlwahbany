@@ -21,6 +21,14 @@
     - Design and program an application to manage the blood donation process
     - Design and program an application for the management of the maintenance process of laboratory equipment
 
+# Skills
+- Python-Django
+- Java android
+- PHP
+- C#
+- ReactJS-NextJS
+- SQL Server-MySQL-PostgresSQL
+- Analyst
 
 # مؤهلاتي:
 - بكالوريوس علوم حاسوب في جامعة صنعاء
