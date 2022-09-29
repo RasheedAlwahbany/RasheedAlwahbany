@@ -1,4 +1,12 @@
-# 👋 Hi, I’m @RasheedAlwahbany
+# 👋 Hi, I’m @RasheedAlwahbany Full-Stack Developer
+
+- date and place of birth in Yemen, Taiz, Sharaab Al-Rawanah at 1996/11/6 
+- Marital Status is Single
+- Nationality is Yemenit
+
+- Working as Software developer in Web & Android Developement for 2 years as freelancer.
+- Working as Software developer at (Minsati) for information technology and (AND) Abu Noor Al-Deen for medical Appliances & Drugs.
+
 
 # Qualifications:
 
