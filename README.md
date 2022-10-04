@@ -39,6 +39,7 @@
 - Analyst
 
 ![Rasheed CV ](https://user-images.githubusercontent.com/72201824/193852102-ce01a062-4c5b-4271-82a8-b603517bb87b.jpg)
+[Rasheed CV .pdf](https://github.com/RasheedAlwahbany/RasheedAlwahbany/files/9708060/Rasheed.CV.pdf)
 
 <!---
 RasheedAlwahbany/RasheedAlwahbany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
