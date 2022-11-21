@@ -4,7 +4,7 @@
 
 - Date and place of birth in Yemen, Taiz, Sharaab Al-Rawanah at 1996/11/6.
 
-![Rasheed CV](https://user-images.githubusercontent.com/72201824/203067729-f9233522-042e-46c5-878e-5a9cb3282023.png)
+![Rasheed CV](https://user-images.githubusercontent.com/72201824/203069419-ef6848ec-12da-4f9a-9a63-96da8a78c1a1.jpg)
 
 
 [Rasheed CV .pdf](https://github.com/RasheedAlwahbany/RasheedAlwahbany/files/10056727/Rasheed.CV.pdf)
