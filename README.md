@@ -6,11 +6,12 @@ I'm adept at using interpersonal abilities to work as part of a team and individ
 
 - Date and place of birth in Yemen, Taiz, Sharaab Al-Rawanah at 1996/11/6.
 
-![Rasheed CV](https://user-images.githubusercontent.com/72201824/203069419-ef6848ec-12da-4f9a-9a63-96da8a78c1a1.jpg)
+![Rasheed CV](https://user-images.githubusercontent.com/72201824/224572534-52fdf9b6-f01a-413f-8118-241bce79402b.png)
 
 
-[Rasheed CV .pdf](https://github.com/RasheedAlwahbany/RasheedAlwahbany/files/10056727/Rasheed.CV.pdf)
 
+
+[Rasheed CV.pdf](https://github.com/RasheedAlwahbany/RasheedAlwahbany/files/10952053/Rasheed.CV.pdf)
 
 <!---
 RasheedAlwahbany/RasheedAlwahbany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
