@@ -1,10 +1,8 @@
 ## 👋 Hi, I’m @RasheedAlwahbany Full-Stack Developer
 
 - I am a software developer with three years of hands-on experience efficiently coding websites and Android applications using modern programming languages such as Java, PHP, and Python, as well as markup and styling languages such as XML, HTML, CSS, and JavaScript.
-
-- Currently, I specialize in website development using the Django web framework in Python. I am dedicated to proactive feature optimization and relentless debugging to ensure the development of state-of-the-art, easy-to-use, and user-friendly websites and applications.
-
-- I am passionate about software development and confident that I would be an excellent developer. I possess excellent interpersonal skills and can work effectively as part of a team or individually to achieve project goals.
+Currently, I specialize in website development using the Django web framework in Python. I am dedicated to proactive feature optimization and relentless debugging to ensure the development of state-of-the-art, easy-to-use, and user-friendly websites and applications.
+I am passionate about software development and confident that I would be an excellent developer. I possess excellent interpersonal skills and can work effectively as part of a team or individually to achieve project goals.
 
 - Date and place of birth in Yemen, Taiz, Sharaab Al-Rawanah at 1996/11/6.
 
