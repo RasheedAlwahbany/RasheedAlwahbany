@@ -6,7 +6,15 @@ I am passionate about software development and confident that I would be an exce
 
 - Date and place of birth in Yemen, Taiz, Sharaab Al-Rawanah at 1996/11/6.
 - Social links and profiles:<br/><br/>
-    <a href="https://www.facebook.com/rasheedalwahbany/" ><img src="https://github.com/RasheedAlwahbany/RasheedAlwahbany/assets/72201824/d1b016c9-94e6-4f82-b656-0670a012cb69" style="width:40px;height:40px;"></a>
+    <a href="https://www.facebook.com/rasheedalwahbany/">Facebook</a> | 
+    <a href="https://www.instagram.com/rasheedalwahbany/">Instagram</a> | 
+    <a href="https://www.linkedin.com/in/eng-rasheed-al-wahbany-5483851b7/" >Linked In</a> | 
+    <a href="https://people.bayt.com/rasheed-al-wahbany-62672600/" >Bayt Profile</a> | 
+    <a href="https://www.for9a.com/user/profile" >For9a Profile</a> | 
+    <a href="https://www.freelancer.com/u/RasheedAlwahbany" >Freelancer Profile</a> | 
+    <a href="https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage" >Indeed Profile</a> | 
+    <a href="https://www.upwork.com/freelancers/~0187655cc0a7b86d39" >Upwork Profile</a> | 
+
 - My projects: 
    - <a href="https://www.agbartec.com/">AGBAR company website</a> 
 
