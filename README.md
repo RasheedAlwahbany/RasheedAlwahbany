@@ -5,6 +5,8 @@ Currently, I specialize in website development using the Django web framework in
 I am passionate about software development and confident that I would be an excellent developer. I possess excellent interpersonal skills and can work effectively as part of a team or individually to achieve project goals.
 
 - Date and place of birth in Yemen, Taiz, Sharaab Al-Rawanah at 1996/11/6.
+- Social links and profiles:<br/><br/>
+    <a href="https://www.facebook.com/rasheedalwahbany/" ><img src="https://github.com/RasheedAlwahbany/RasheedAlwahbany/assets/72201824/d1b016c9-94e6-4f82-b656-0670a012cb69" style="width:40px;height:40px;"></a>
 - My projects: 
    - <a href="https://www.agbartec.com/">AGBAR company website</a> 
 
