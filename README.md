@@ -6,6 +6,8 @@ I am passionate about software development and confident that I would be an exce
 
 - Date and place of birth in Yemen, Taiz, Sharaab Al-Rawanah at 1996/11/6.
 - Social links and profiles:<br/><br/>
+    <a href="mailto:rasheedalwahbany@gmail.com">Gmail</a> | 
+    <a href="mailto:rasheed.alwahbany@outlook.com">Outlook</a> | 
     <a href="https://www.facebook.com/rasheedalwahbany/">Facebook</a> | 
     <a href="https://www.instagram.com/rasheedalwahbany/">Instagram</a> | 
     <a href="https://www.linkedin.com/in/eng-rasheed-al-wahbany-5483851b7/" >Linked In</a> | 
