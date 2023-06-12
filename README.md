@@ -8,6 +8,7 @@ I am passionate about software development and confident that I would be an exce
 - Social links and profiles:<br/><br/>
     <a href="mailto:rasheedalwahbany@gmail.com">Gmail</a> | 
     <a href="mailto:rasheed.alwahbany@outlook.com">Outlook</a> | 
+    <a href="https://gitlab.com/RasheedAlwahbany/">GitLab</a> | 
     <a href="https://www.facebook.com/rasheedalwahbany/">Facebook</a> | 
     <a href="https://www.instagram.com/rasheedalwahbany/">Instagram</a> | 
     <a href="https://www.linkedin.com/in/rasheedalwahbany/" >Linked In</a> | 
