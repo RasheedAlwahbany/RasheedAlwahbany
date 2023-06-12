@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @RasheedAlwahbany Full-Stack Developer
+## 👋 Hi, I’m @RasheedAlwahbany Software Developer
 
 - I am a software developer with three years of hands-on experience efficiently coding websites and Android applications using modern programming languages such as Java, PHP, and Python, as well as markup and styling languages such as XML, HTML, CSS, and JavaScript.
 Currently, I specialize in website development using the Django web framework in Python. I am dedicated to proactive feature optimization and relentless debugging to ensure the development of state-of-the-art, easy-to-use, and user-friendly websites and applications.
