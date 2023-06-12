@@ -10,7 +10,7 @@ I am passionate about software development and confident that I would be an exce
     <a href="mailto:rasheed.alwahbany@outlook.com">Outlook</a> | 
     <a href="https://www.facebook.com/rasheedalwahbany/">Facebook</a> | 
     <a href="https://www.instagram.com/rasheedalwahbany/">Instagram</a> | 
-    <a href="https://www.linkedin.com/in/eng-rasheed-al-wahbany-5483851b7/" >Linked In</a> | 
+    <a href="https://www.linkedin.com/in/RasheedAlwahbany/" >Linked In</a> | 
     <a href="https://people.bayt.com/rasheed-al-wahbany-62672600/" >Bayt Profile</a> | 
     <a href="https://www.for9a.com/user/profile" >For9a Profile</a> | 
     <a href="https://www.freelancer.com/u/RasheedAlwahbany" >Freelancer Profile</a> | 
