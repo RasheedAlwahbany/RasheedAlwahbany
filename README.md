@@ -16,7 +16,7 @@ I am passionate about software development and confident that I would be an exce
     <a href="https://www.freelancer.com/u/RasheedAlwahbany" >Freelancer Profile</a> | 
     <a href="https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage" >Indeed Profile</a> | 
     <a href="https://www.upwork.com/freelancers/~0187655cc0a7b86d39" >Upwork Profile</a> | 
-<!-- <a href="https://www.instagram.com/rasheedalwahbany/">Instagram</a> | --!>
+
 - My projects: 
    - <a href="https://www.agbartec.com/">AGBAR company website</a> 
 
@@ -29,3 +29,4 @@ I am passionate about software development and confident that I would be an exce
 RasheedAlwahbany/RasheedAlwahbany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- <a href="https://www.instagram.com/rasheedalwahbany/">Instagram</a> | --!>
