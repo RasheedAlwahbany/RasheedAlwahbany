@@ -23,10 +23,9 @@ I am happy to work with you and ready, God willing, at any time
 - My projects: 
    - <a href="https://www.agbartec.com/">AGBAR company website</a> 
 
+![Rasheed CV](https://github.com/RasheedAlwahbany/RasheedAlwahbany/assets/72201824/ac802920-74f1-4eba-b1db-debeb4ab86df)
 
-![Rasheed CV](https://github.com/RasheedAlwahbany/RasheedAlwahbany/assets/72201824/8123f215-e255-4e12-8d09-e9a569a1116b)
-
-[Rasheed CV.pdf](https://github.com/RasheedAlwahbany/RasheedAlwahbany/files/11728696/Rasheed.CV.pdf)
+[Rasheed CV .pdf](https://github.com/RasheedAlwahbany/RasheedAlwahbany/files/12774554/Rasheed.CV.pdf)
 
 <!---
 RasheedAlwahbany/RasheedAlwahbany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
