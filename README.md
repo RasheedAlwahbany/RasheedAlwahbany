@@ -1,8 +1,11 @@
 ## 👋 Hi, I’m @RasheedAlwahbany Software Developer
 
-- I am a software developer with three years of hands-on experience efficiently coding websites and Android applications using modern programming languages such as Java, PHP, and Python, as well as markup and styling languages such as XML, HTML, CSS, and JavaScript.
-Currently, I specialize in website development using the Django web framework in Python. I am dedicated to proactive feature optimization and relentless debugging to ensure the development of state-of-the-art, easy-to-use, and user-friendly websites and applications.
-I am passionate about software development and confident that I would be an excellent developer. I possess excellent interpersonal skills and can work effectively as part of a team or individually to achieve project goals.
+- I am a software developer with three years of practical experience in efficiently programming websites and Android applications using modern programming languages such as Java, PHP and Python as well as coding and design languages such as XML, HTML, CSS and JavaScript. Currently, I specialize in website development using Django web framework and ASP.net mvc and have great knowledge of Reactjs and Nextjs.
+We also worked on customizing a copy of the ODOO system
+I am committed to proactive feature improvement and bug fixing to ensure we develop modern, easy-to-use websites and applications.
+I am passionate about software development and am confident that I will be an excellent developer. I have excellent interpersonal skills and I can work effectively as part of a team or individually to achieve project goals because we use github, gitlab with GIT version control.
+
+I am happy to work with you and ready, God willing, at any time
 
 - Date and place of birth in Yemen, Taiz, Sharaab Al-Rawanah at 1996/11/6.
 - Social links and profiles:<br/><br/>
