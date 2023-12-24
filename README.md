@@ -22,9 +22,9 @@ I am passionate about software development and am confident that I will be an ex
 - My projects: 
    - <a href="https://www.agbartec.com/">AGBAR company website</a> 
 
-![Rasheed CV](https://github.com/RasheedAlwahbany/RasheedAlwahbany/assets/72201824/ac802920-74f1-4eba-b1db-debeb4ab86df)
+![Rasheed CV](https://github.com/RasheedAlwahbany/RasheedAlwahbany/Rasheed.CV.png)
 
-[Rasheed CV .pdf](https://github.com/RasheedAlwahbany/RasheedAlwahbany/files/12774554/Rasheed.CV.pdf)
+[Rasheed CV .pdf](https://github.com/RasheedAlwahbany/RasheedAlwahbany/Rasheed.CV.pdf)
 
 <!---
 RasheedAlwahbany/RasheedAlwahbany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
