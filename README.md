@@ -1,12 +1,10 @@
 ## 👋 Hi, I’m @RasheedAlwahbany Software Developer
 
-- I am a software developer with three years of practical experience in efficiently programming websites and Android applications using modern programming languages such as Java, PHP and Python as well as coding and design languages such as XML, HTML, CSS and JavaScript. Currently, I specialize in website development using Django web framework and ASP.net mvc and have great knowledge of Reactjs and Nextjs.
-We also worked on customizing a copy of the ODOO system
-I am committed to proactive feature improvement and bug fixing to ensure we develop modern, easy-to-use websites and applications.
-I am passionate about software development and am confident that I will be an excellent developer. I have excellent interpersonal skills and I can work effectively as part of a team or individually to achieve project goals because we use github, gitlab with GIT version control.
+- I am a software developer with three years of practical experience in efficiently programming websites and Android applications using modern programming languages such as Java, PHP, and Python as coding and design languages such as XML, HTML, CSS, and JavaScript. I specialize in website development using the Django web framework and ASP.net MVC and have great knowledge of Reactjs and Nextjs. We also worked on customizing a copy of the ODOO system I am committed to proactive feature improvement and bug fixing to ensure we develop modern, easy-to-use websites and applications. I am passionate about software development and am confident  I will be an excellent developer. I have excellent interpersonal skills. I can work effectively as part of a team or individually to achieve project goals because we use GitHub, and GitLab with GIT version control.
 
 
-- Date and place of birth in Yemen, Taiz, Sharaab Al-Rawanah at 1996/11/6.
+
+- Date and place of birth in Yemen, Taiz, Sharaab Al-Rawanah  (1996/11/6).
 - Social links and profiles:<br/><br/>
     <a href="mailto:rasheedalwahbany@gmail.com">Gmail</a> | 
     <a href="mailto:rasheed.alwahbany@outlook.com">Outlook</a> | 
