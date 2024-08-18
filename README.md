@@ -17,7 +17,7 @@
     <a href="https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage" >Indeed Profile</a> | 
     <a href="https://www.upwork.com/freelancers/~0187655cc0a7b86d39" >Upwork Profile</a> | 
 
-- My projects: 
+- My latest projects: 
    - <a href="https://www.yementrack.com.ye/">YemenTrack</a>
    - <a href="https://www.agbartec.com/">AGBAR company website</a> 
 
