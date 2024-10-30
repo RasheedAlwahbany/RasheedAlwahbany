@@ -4,7 +4,7 @@
 
 
 
-- Date and place of birth in Yemen, Taiz, Sharaab Al-Rawanah  (1996/11/6).
+- Date and place of birth in Yemen, Taiz, Sharaab Al-  (1996/11/6).
 - Social links and profiles:<br/><br/>
     <a href="mailto:rasheedalwahbany@gmail.com">Gmail</a> | 
     <a href="mailto:rasheed.alwahbany@outlook.com">Outlook</a> | 
