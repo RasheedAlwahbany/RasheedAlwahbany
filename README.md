@@ -1,8 +1,7 @@
 ## 👋 Hi, I’m @RasheedAlwahbany Software Developer
+[![trophy](https://github-profile-trophy.vercel.app/?username=RasheedAlwahbany)](https://github.com/ryo-ma/github-profile-trophy)
 
 - I am a software developer with three years of practical experience in efficiently programming websites and Android applications using modern programming languages such as Java, PHP, and Python as coding and design languages such as XML, HTML, CSS, and JavaScript. I specialize in website development using the Django web framework and ASP.net MVC and have great knowledge of Reactjs and Nextjs. We also worked on customizing a copy of the ODOO system I am committed to proactive feature improvement and bug fixing to ensure we develop modern, easy-to-use websites and applications. I am passionate about software development and am confident  I will be an excellent developer. I have excellent interpersonal skills. I can work effectively as part of a team or individually to achieve project goals because we use GitHub, and GitLab with GIT version control.
-
-
 
 - Date and place of birth in Yemen, Taiz, Sharaab Al-Rawanah  (1996/11/6).
 - Social links and profiles:<br/><br/>
