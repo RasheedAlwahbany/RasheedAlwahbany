@@ -14,10 +14,12 @@ I am a software developer with three years of practical experience in efficientl
     <a href="https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage" >Indeed Profile</a> | 
     <a href="https://www.upwork.com/freelancers/~0187655cc0a7b86d39" >Upwork Profile</a> 
 
-- My latest projects
-   - <a href="https://www.yementrack.com.ye/">YemenTrack</a>
-   - <a href="https://www.agbartec.com/">AGBAR company website</a> 
+- Latest projects
+   - [YemenTrack](https://www.yementrack.com.ye/)
+   - [AGBAR company website](https://www.agbartec.com/)
 
+- Latest Contributed to
+   - [Faltara](https://www.faltara.cloud/) as frontend developer
 - CV<br/>
 <a href="https://github.com/RasheedAlwahbany/RasheedAlwahbany/blob/main/Rasheed.CV.png">Rasheed CV.png</a> | 
 [Rasheed CV .pdf](https://github.com/RasheedAlwahbany/RasheedAlwahbany/blob/main/Rasheed.CV.pdf)
