@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @RasheedAlwahbany Software Developer
 
-<span style="font-size:18px;">I am a software developer with four years of experience in website and Android application development using Java, PHP, Python, JavaScript, and modern design tools like XML, HTML, CSS, Bootstrap, and Tailwindcss. I specialize in Django, ASP.NET MVC, React.js, and Next.js and have experience customizing the ODOO & ERPNext systems. I am skilled in feature enhancement, bug fixing, and using GitHub and GitLab for version control, ensuring efficient teamwork and project delivery.</span>
+<span style="font-size:20px;">I am a software developer with four years of experience in website and Android application development using Java, PHP, Python, JavaScript, and modern design tools like XML, HTML, CSS, Bootstrap, and Tailwindcss. I specialize in Django, ASP.NET MVC, React.js, and Next.js and have experience customizing the ODOO & ERPNext systems. I am skilled in feature enhancement, bug fixing, and using GitHub and GitLab for version control, ensuring efficient teamwork and project delivery.</span>
 
 - Social links and profiles<br/>
     <a href="mailto:rasheedalwahbany@gmail.com">Gmail</a> |
