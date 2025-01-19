@@ -20,6 +20,7 @@ I specialize in building robust solutions using Django, ASP.NET MVC, React.js, a
 
 - Latest projects
   - [YemenTrack](https://www.yementrack.com.ye/)
+  - [Raa Construction and Excellence Contracting Co. Ltd](https://raa.com.sa/)
   - [AGBAR company website](https://www.agbartec.com/)
 
 - Latest Contributed to
