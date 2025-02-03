@@ -25,6 +25,7 @@ I specialize in building robust solutions using Django, ASP.NET MVC, React.js, a
 
 - Latest Contributed to
   - [Faltara](https://www.faltara.cloud/) as frontend developer
+  - [TalAgency](https://talagency.sa/) as frontend developer
 - CV<br/>
 <a href="https://github.com/RasheedAlwahbany/RasheedAlwahbany/blob/main/Rasheed.CV.png">Rasheed CV.png</a> |
 [Rasheed CV .pdf](https://github.com/RasheedAlwahbany/RasheedAlwahbany/blob/main/Rasheed.CV.pdf)
