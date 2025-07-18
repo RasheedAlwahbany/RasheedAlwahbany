@@ -19,7 +19,6 @@ I specialize in building robust solutions using Appache Airflow, Django, ASP.NET
     <a href="https://www.upwork.com/freelancers/~0187655cc0a7b86d39" >Upwork Profile</a>
 
 - Latest projects
-  - [Faltara](https://www.faltara.cloud/)
   - [YemenTrack](https://www.yementrack.com.ye/)
   - [Raa Construction and Excellence Contracting Co. Ltd](https://raa.com.sa/)
   - [AGBAR company website](https://www.agbartec.com/)
